@@ -132,7 +132,7 @@ Limitations to be aware of:
 
 Some features work differently from current workspaces in the new workspaces. These differences are intentional, based on feedback we’ve received from customers, and enable a more flexible approach to collaboration with workspaces:
 
-- Licensing enforcement: Publishing reports to new workspace experience enforces existing licensing rules that require a Power BI Pro license for users collaborating in workspaces or sharing content to others in the Power BI service. Users without a Pro license see the error "Only users with Powre BI Pro licenses can publish to this workspace."
+- Licensing enforcement: Publishing reports to new workspace experience enforces existing licensing rules that require a Power BI Pro license for users collaborating in workspaces or sharing content to others in the Power BI service. Users without a Pro license see the error "Only users with Power BI Pro licenses can publish to this workspace."
 - Members can or can't reshare: replaced by the Contributor role
 - Read-only workspaces: Instead of granting users read-only access to a workspace, you'll assign users to a forthcoming Viewer role, which allows similar read-only access to the content in a workspace.
 - No **Leave workspace** button.
