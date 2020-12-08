@@ -92,7 +92,7 @@ There are a few considerations and limitations to keep in mind when you work wit
 * When exporting to PowerPoint, if the report uses a custom font, that font will be replaced with a default font.
 
 * The following visual types are not supported, and will not be exported to PowerPoint:
-   - [Custom visuals that haven't been certified](../developer/visuals/power-bi-custom-visuals-certified.md)) aren't supported. 
+   - [Custom visuals that haven't been certified](../developer/visuals/power-bi-custom-visuals-certified.md) aren't supported. 
    - The [ESRI ArcGIS visual](../visuals/power-bi-visualizations-arcgis.md) is not supported
    - R and Python visuals are not supported.
    - Background images are cropped with the chart's bounding area. We recommend that you remove background images before you export to PowerPoint.
